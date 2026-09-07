@@ -27,7 +27,7 @@ function Hero() {
             </div>
 
             <h1 className="hero-name">
-              Mohammed <span className="grad">Zeeshan</span>
+              Shaikh <span className="grad">Zeshan</span>
             </h1>
 
             <div className="hero-role">
