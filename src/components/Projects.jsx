@@ -3,14 +3,8 @@ import "../App.css";
 
 
 const projects = [
-  {
-    name: "ATM Management System",
-    metric: "Java + MySQL",
-    description:
-      "A Java-based ATM management application with database connectivity and CRUD operations.",
-    stack: ["Java", "JDBC", "MySQL", "OOP"],
-    github: "https://github.com/mdzeeshanjr11/ATM-MANAGEMENT-PROJECT.git"
-  },
+  
+  
 
   {
     name: "Bank Management System",
