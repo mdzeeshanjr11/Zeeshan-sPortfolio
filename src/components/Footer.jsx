@@ -10,7 +10,7 @@ function Footer() {
         </div>
 
         <p>
-          © 2026 Muhammad Zeeshan. All rights reserved.
+          © 2026 Mohammed Zeeshan. All rights reserved.
         </p>
 
         <div className="footer-links">
