@@ -7,7 +7,7 @@ const projects = [
   
 
   {
-    name: "Bank Management System",
+    name: "Banking Application",
     metric: "Java + MySQL",
     description:
       "A banking application developed using Java and MySQL with account management and database operations.",

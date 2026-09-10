@@ -81,7 +81,7 @@ function Hero() {
           <div className="profile-panel">
             <div className="profile-card">
               <img
-                src="/images/profile.jpeg"
+                src="/images/myPic.jpeg"
                 alt="Mohammed Zeeshan"
                 className="profile-image"
               />

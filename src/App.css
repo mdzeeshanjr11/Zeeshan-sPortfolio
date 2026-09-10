@@ -21,15 +21,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap");
 
 :root {
-  --black: #020304;
-  --black-2: #050607;
-  --black-3: #0a0c0f;
+  --black: black;
+  --black-2: #1a1a1a;
+  --black-3: white;
 
   --white: #f5f7fa;
   --gray: #8b949e;
   --gray-light: #b8c0ca;
 
-  --orange: #ff7a00;
+  --orange: orange;
   --orange-light: #ffad42;
 
   --cyan: #00e5ff;
