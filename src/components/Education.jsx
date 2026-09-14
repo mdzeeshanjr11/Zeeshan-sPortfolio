@@ -32,6 +32,22 @@ function Education() {
             </div>
 
           </div>
+          <div className="edu-card">
+
+            <h3>
+              Master's of Computer Science
+            </h3>
+
+            <div className="sub">
+              Swami Ramanand Teerth Marathwada University,
+              Nanded, Maharashtra
+            </div>
+
+            <div className="badge">
+              Pursuing  Expected complete in 2027
+            </div>
+
+          </div>
 
 
           <div className="edu-card">
