@@ -59,7 +59,25 @@ const projects = [
 
     ],
     github: "https://github.com/mdzeeshanjr11/FFC_Fullstackprojct.git"
+  },
+  {
+   name: "Hotel Booking Microservices",
+    metric: "Spring Boot, Microservices",
+    description: "A hotel booking application built using Spring Boot and Microservices architecture, allowing users to book rooms and manage reservations.",
+   
+    stack: [
+      "Spring Boot",
+      "Spring security",
+      "api gateway",
+      "eureka server",
+      "hibernate ,jpa",
+        "MySQL",
+
+    ],
+    github: "https://github.com/mdzeeshanjr11/Microservices_Application.git"
   }
+
+
 ];
 
 function Projects() {
